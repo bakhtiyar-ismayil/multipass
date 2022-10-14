@@ -29,7 +29,7 @@ For checking installation run
 
 If you get this page then go to forward 
 
-![img](multipass2.png)
+![img](img/multipass2.png)
 
 Ok , we installed **Choco** and now we can install **Multipass**
 
@@ -37,7 +37,7 @@ Run command below for installing multipass
 
 **# choco install multipass**
 
-![img](multipass.png)
+![img](img/multipass.png)
 
 **BINGO**
 
@@ -45,4 +45,4 @@ Now we can run our ubuntu on multipass
 
 **# multipass shell**
 
-![img](multipass3.png)
+![img](img/multipass3.png)
